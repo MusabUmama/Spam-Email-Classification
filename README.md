@@ -1,2 +1,1 @@
-# 20210014_CM2604_CW
-CM 2604 CW
+Spam Mail Classification
